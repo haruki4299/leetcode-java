@@ -1,7 +1,13 @@
 # leetcode
 Problems that I solved on leetcode
+Programming Language Java
+Each file includes:
+- Code I wrote
+- Text file of results
+- Solutions/Notes from others that I found educational
 
 Problems solved prior to making this repo (I don't remember if the code is what I wrote)
+All of these were solved using Java
 1. Two Sum (Easy)
 2. Add Two Numbers (Medium)
 3. Longest Substring Without Repeating Characters (Medium)
