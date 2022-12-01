@@ -1,1 +1,6 @@
-a
+Problem Description
+Given an array of integers arr, return true if the number of occurrences of each value in the array is unique, or false otherwise.
+
+Results
+Runtime: 4 ms, faster than 67.11% of Java online submissions for Unique Number of Occurrences.
+Memory Usage: 42.4 MB, less than 28.74% of Java online submissions for Unique Number of Occurrences.
