@@ -1,0 +1,2 @@
+Runtime 0 ms Beats 100%
+Memory 41.5 MB Beats 7.82%
