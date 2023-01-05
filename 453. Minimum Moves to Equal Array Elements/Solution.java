@@ -25,8 +25,7 @@ class Solution {
         }
         return arrows;
     }
-
-    private int[][] sortByFirst(int[][] points) {
+    /** private int[][] sortByFirst(int[][] points) {
         int len = points.length;
         int sorted = 0;
         while (sorted < len) {
@@ -43,4 +42,5 @@ class Solution {
         }
         return points;
     }
+    */
 }
