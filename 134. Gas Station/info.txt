@@ -1,0 +1,11 @@
+Runtime
+4 ms
+Beats
+55.62%
+
+Memory
+62.6 MB
+Beats
+72.1%
+
+Algorithm idea for O(n)
